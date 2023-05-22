@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  storefruits:
+    image: ${DOCKER_REGISTRY-}storefruits
+    build:
+      context: .
+      dockerfile: StoreFruits/Dockerfile
+
+  webapi:
+    image: ${DOCKER_REGISTRY-}webapi
+    build:
+      context: .
+      dockerfile: WebAPI/Dockerfile
+  redis:
+   image: redis
+

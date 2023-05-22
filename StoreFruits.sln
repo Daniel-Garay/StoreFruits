@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreFruits", "StoreFruits\StoreFruits.csproj", "{BE0DB464-8919-4D91-9921-39AB4E55F300}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{C74E490A-897B-402A-A7C4-4E0CF1BFDD51}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{74586B1E-78CA-46B8-89D6-95869BFA3D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0DB464-8919-4D91-9921-39AB4E55F300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0DB464-8919-4D91-9921-39AB4E55F300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0DB464-8919-4D91-9921-39AB4E55F300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0DB464-8919-4D91-9921-39AB4E55F300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74E490A-897B-402A-A7C4-4E0CF1BFDD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74E490A-897B-402A-A7C4-4E0CF1BFDD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74E490A-897B-402A-A7C4-4E0CF1BFDD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74E490A-897B-402A-A7C4-4E0CF1BFDD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74586B1E-78CA-46B8-89D6-95869BFA3D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74586B1E-78CA-46B8-89D6-95869BFA3D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74586B1E-78CA-46B8-89D6-95869BFA3D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74586B1E-78CA-46B8-89D6-95869BFA3D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {462DD7B6-BD05-4EB1-AA3E-DA35D1C22A5F}
+	EndGlobalSection
+EndGlobal
