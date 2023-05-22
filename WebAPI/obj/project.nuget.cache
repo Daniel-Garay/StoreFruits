@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LMUdLmGjAY9nvACG/sSLNxGN+ClYKZxxfDniH3v0vo+e+RFMMho+QacyxjyHBb/GomWSC4CX8H9J+w2QHbtEnw==",
+  "dgSpecHash": "dm0t8jmM+Bq6KJM8N/fIEDPjVnM6JZBNmAfMzTHszMW+vYg10IbKlNX4JBwGfI0X6FKo9PU9RmmgJopRVtK83w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garay\\source\\repos\\StorePoli\\StoreFruits\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\garay\\source\\repos\\StoreFruits\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\garay\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",

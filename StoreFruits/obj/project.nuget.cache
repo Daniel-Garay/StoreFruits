@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igQ1A2MZTsqlM4fJJXrqOUbe4CRAq2/dRyOmn34hrVCru2ngK/+E+IW+tpJtJ19rmALg0HRB9+bg+EzTNjXpUA==",
+  "dgSpecHash": "vkCnEbjOTK+6abqPuzkjETibuNThGVCHRQFqfemLB53qp5gB8t1lk4oxLkJF7IFqDNSfUFxsi0AhT1lTI9TEIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garay\\source\\repos\\StorePoli\\StoreFruits\\StoreFruits\\StoreFruits.csproj",
+  "projectFilePath": "C:\\Users\\garay\\source\\repos\\StoreFruits\\StoreFruits\\StoreFruits.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garay\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],

@@ -14,8 +14,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
     volumes:
-      - C:\Users\garay\source\repos\StorePoli\StoreFruits\StoreFruits:/app
-      - C:\Users\garay\source\repos\StorePoli\StoreFruits:/src
+      - C:\Users\garay\source\repos\StoreFruits\StoreFruits:/app
+      - C:\Users\garay\source\repos\StoreFruits:/src
       - C:\Users\garay\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\garay\.nuget\packages\:/root/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/root/.nuget/fallbackpackages:ro
@@ -42,8 +42,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
     volumes:
-      - C:\Users\garay\source\repos\StorePoli\StoreFruits\WebAPI:/app
-      - C:\Users\garay\source\repos\StorePoli\StoreFruits:/src
+      - C:\Users\garay\source\repos\StoreFruits\WebAPI:/app
+      - C:\Users\garay\source\repos\StoreFruits:/src
       - C:\Users\garay\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\garay\.nuget\packages\:/root/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/root/.nuget/fallbackpackages:ro

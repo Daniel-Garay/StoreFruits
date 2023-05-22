@@ -104,11 +104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\garay\\source\\repos\\StorePoli\\StoreFruits\\StoreFruits\\StoreFruits.csproj",
+      "projectUniqueName": "C:\\Users\\garay\\source\\repos\\StoreFruits\\StoreFruits\\StoreFruits.csproj",
       "projectName": "StoreFruits",
-      "projectPath": "C:\\Users\\garay\\source\\repos\\StorePoli\\StoreFruits\\StoreFruits\\StoreFruits.csproj",
+      "projectPath": "C:\\Users\\garay\\source\\repos\\StoreFruits\\StoreFruits\\StoreFruits.csproj",
       "packagesPath": "C:\\Users\\garay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\garay\\source\\repos\\StorePoli\\StoreFruits\\StoreFruits\\obj\\",
+      "outputPath": "C:\\Users\\garay\\source\\repos\\StoreFruits\\StoreFruits\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
